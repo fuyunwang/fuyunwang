@@ -20,7 +20,6 @@
             href="https://golang.org/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go"
             width="40" height="40"/> </a>
-
     <a
             href="https://www.w3.org/html/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
@@ -45,10 +44,6 @@
             href="https://www.mongodb.com/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"
             width="40" height="40"/> </a>
-   <!-- <a
-            href="https://flutter.dev/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" alt="flutter"
-            width="40" height="40"/> </a>-->
     <a href="https://webpack.js.org" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40"
             height="40"/> </a>
