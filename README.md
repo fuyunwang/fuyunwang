@@ -6,7 +6,7 @@
 
 
 ### About me
-一名Gopher,平时也写点java
+一名Gopher,平时写点java,偶尔学学ts...
 
 ### Motto
 笃志弘毅 止于至善
