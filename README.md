@@ -2,9 +2,9 @@
 
 ### 万事起于忽微 量变引起质变
 
-![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true)
+![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
 
 ### About me
 一名Gopher,平时写点java,偶尔玩玩ts...
