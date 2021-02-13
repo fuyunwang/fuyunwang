@@ -4,6 +4,7 @@
 
 ![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang)
 
 ### About me
 一名Gopher,平时写点java,偶尔玩玩ts...
