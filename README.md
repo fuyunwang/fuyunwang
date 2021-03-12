@@ -30,7 +30,16 @@
              width="40" height="40"/> </a>
     <a href="https://cn.vuejs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs"
-             width="40" height="40"/> </a>
+             width="40" height="40"/>
+    </a>
+     <a
+            href="https://www.docker.com/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"
+            width="40" height="40"/> </a>
+    <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"
+             width="40" height="40"/> 
+    </a>
     <a href="https://www.mysql.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"
             height="40"/> </a>
@@ -52,10 +61,6 @@
     <a href="https://www.nginx.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"
             height="40"/> </a>
-  <a
-            href="https://www.docker.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"
-            width="40" height="40"/> </a>
     <a
             href="https://github.com/vim/vim" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim"
