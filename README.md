@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
 
 ### About me
-一名Gopher,平时写点java,偶尔玩玩python、ts...
+一名Gopher,平时写点java,偶尔玩玩python,ts...
 
 ### Motto
 笃志弘毅 止于至善
