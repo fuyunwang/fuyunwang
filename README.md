@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
 
 ### About me
-一名Gopher,平时写点java,偶尔玩玩python,ts...
+玩过安卓，做过前端，写过UI，搞过架构，一名专注于服务端、云原生学习与探索的半栈工程师，偶尔也接触下深度学习推荐系统，正努力向全栈目标前行
 
 ### Motto
 笃志弘毅 止于至善
