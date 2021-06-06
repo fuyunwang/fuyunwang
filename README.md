@@ -6,8 +6,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
 
+![](https://activity-graph.herokuapp.com/graph?username=fuyunwang&theme=github)
+
 ### About me
 玩过安卓，做过前端，写过UI，搞过架构，一名专注于服务端、云原生学习与探索的半栈工程师，偶尔也接触下深度学习推荐系统，正努力向全栈目标前行
+
+![](http://120.27.20.141:8031/images/tech.png)
 
 ### Motto
 笃志弘毅 止于至善
