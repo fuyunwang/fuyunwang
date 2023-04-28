@@ -17,7 +17,7 @@
   </div>
   
   <br />
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="left">
     <a
             href="https://www.java.com/zh-CN/" target="_blank"> <img
