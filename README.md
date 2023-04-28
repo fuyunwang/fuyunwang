@@ -12,7 +12,7 @@
   <img height="167px" src="https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt" />
     </div>
     <div>
-    <img height="167px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
+    <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
   <br>
     </div>
 </div>
