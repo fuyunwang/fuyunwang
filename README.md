@@ -7,18 +7,14 @@
   <div align="center">
   <img src="./images/coding.gif" />
 </div>
-</div>
 
-## 万事起于忽微 量变引起质变
+
 ![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
 
 ![](https://activity-graph.herokuapp.com/graph?username=fuyunwang&theme=github)
 
-## Motto
-
-**笃志弘毅 止于至善**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -82,3 +78,4 @@
 
 </p>
 
+</div>
