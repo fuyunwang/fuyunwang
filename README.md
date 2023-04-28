@@ -7,12 +7,12 @@
   <div align="center">
   <img src="./images/coding.gif" />
 
-<div style="display: flex; justify-content: space-between; ">
+<div style="display: flex; justify-content: space-between; padding: 0 10px">
     <div>
-  <img height="167px" src="https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt" />
     </div>
     <div>
-    <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
   <br>
     </div>
 </div>
