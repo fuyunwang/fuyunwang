@@ -13,10 +13,10 @@
     </div>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
-  <br>
     </div>
+
 </div>
-</div>
+
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
