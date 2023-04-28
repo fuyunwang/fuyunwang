@@ -1,6 +1,17 @@
-### Hi here 👋
 
-### 万事起于忽微 量变引起质变
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://juejin.cn/post/7223374346094329911">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=一个期待爬到金字塔顶端的蜗牛;关于我...&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  <div align="center">
+  <img src="./images/coding.gif" />
+</div>
+
+## 万事起于忽微 量变引起质变
 
 ![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt)
 
@@ -8,8 +19,9 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=fuyunwang&theme=github)
 
-### Motto
-笃志弘毅 止于至善
+## Motto
+
+**笃志弘毅 止于至善**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
