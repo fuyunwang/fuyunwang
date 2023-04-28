@@ -1,23 +1,22 @@
 <div align="center">
+
   <div align="center">
     <a href="https://juejin.cn/post/7223374346094329911">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=485&lines=一个虽身处底端却仍然期待爬到金字塔顶峰的蜗牛;穷且益坚，不坠青云之志&center=true&size=22" alt="Typing SVG" />
     </a>
+    
   </div>
   <div align="center">
-  <img src="./images/coding.gif" />
+      <img src="./images/coding.gif" />
+  </div>
 
-<div style="display: flex; justify-content: space-between; padding: 0 10px">
-    <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt" />
-    </div>
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
-    </div>
-
-</div>
-
-<br />
+  <div style="display: flex; justify-content: space-between;"> 
+        <!-- knock code pictures 敲代码的图片 -->
+        <img height="127px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fuyunwang&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&locale=cn" />
+        <img height="127px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&hide_title=false&hide=c&hide_border=true&layout=compact&theme=cobalt&locale=cn" />
+  </div>
+  
+  <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a
