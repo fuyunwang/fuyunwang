@@ -1,10 +1,7 @@
-
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://juejin.cn/post/7223374346094329911">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=一个期待爬到金字塔顶端的蜗牛;关于我...&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=一个在底端但仍然期待爬到金字塔顶端的蜗牛;穷且益坚，不坠青云之志&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
@@ -12,7 +9,6 @@
 </div>
 
 ## 万事起于忽微 量变引起质变
-
 ![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
