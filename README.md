@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
     <a href="https://juejin.cn/post/7223374346094329911">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=一个在底端但仍然期待爬到金字塔顶端的蜗牛;穷且益坚，不坠青云之志&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=一个虽身处底端却仍然期待爬到金字塔顶峰的蜗牛;穷且益坚，不坠青云之志&center=true&size=28" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
