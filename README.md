@@ -6,16 +6,18 @@
   </div>
   <div align="center">
   <img src="./images/coding.gif" />
+
+<div style="display: flex; justify-content: space-between; ">
+    <div>
+  <img height="167px" src="https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt" />
+    </div>
+    <div>
+    <img height="167px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt" />
+  <br>
+    </div>
 </div>
-
-
-![FuyunWang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuyunwang&show_icons=true&hide_border=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&theme=cobalt)
-
-![](https://activity-graph.herokuapp.com/graph?username=fuyunwang&theme=github)
-
-
+</div>
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a
