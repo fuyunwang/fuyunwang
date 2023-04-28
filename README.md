@@ -12,8 +12,8 @@
 
   <div style="display: flex; justify-content: space-between;"> 
         <!-- knock code pictures 敲代码的图片 -->
-        <img height="127px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fuyunwang&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&locale=cn" />
-        <img height="127px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&hide_title=false&hide=c&hide_border=true&layout=compact&theme=cobalt&locale=cn" />
+        <img height="130px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fuyunwang&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&locale=cn" />
+        <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunwang&hide_title=false&hide=c&hide_border=true&layout=compact&theme=cobalt&locale=cn" />
   </div>
   
   <br />
